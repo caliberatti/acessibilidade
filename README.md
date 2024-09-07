@@ -11,6 +11,8 @@ https://acessibilidade-phi.vercel.app/
 
 Projeto desenvolvido para a Imersão Dev com Gemini da Alura, por uma product designer que conhece muito pouco de código ainda, que nunca tinha usado Javascript nem Vercel
 e nunca tinha postado projetos no Github!
+
+
 Apesar de Acessibilidade ser um conceito amplo que abrange diversas necessidades, aqui fiz o recorte para pessoas com cadeira de rodas.
 
 
@@ -43,6 +45,8 @@ Para mim, ficou de tarefa começar alimentando o Maps com imagens dos banheiros,
 
 
 Google Maps poderia ter uma sessão separada chamada "acessibilidade" para upload das fotos.
+
+
 Outra sugestão seria com IA identificar as imagens e taggear automaticamente cada upload dos usuários para facilitar as buscas no Google Maps.
 
 
@@ -51,8 +55,14 @@ Outra sugestão seria com IA identificar as imagens e taggear automaticamente ca
 
 
 Busque por nomes de restaurantes ou tipo de comida "japonesa" ou apenas dê scroll para acessar a lista completa.
+
+
 Cada item mostra o nome do restaurante, o tipo de comida, o endereço e tags clicáveis sobre acessibilidade que direcionam para fotos do Google Maps que os usuários postam.
+
+
 A base de dados ainda é pequena, mas pretendo dar continuidade ao projeto.
+
+
 Após uma busca, para voltar a visualizar a lista completa, delete o texto digitado e clique em Pesquisar novamente.
 
 
@@ -61,4 +71,6 @@ Após uma busca, para voltar a visualizar a lista completa, delete o texto digit
 
 
 Esse projeto foi desenvolvidos apenas para fins educacionais e não possui fins comerciais.
+
+
 Crédito da imagem: Civiam - https://civiam.com.br/ex-vereadora-em-limeira-carolina-pontes-lanca-livro-sobre-inclusao-de-pessoas-com-deficiencia-sob-a-otica-dos-direitos-fundamentais/
