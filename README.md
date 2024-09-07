@@ -12,6 +12,7 @@ Projeto desenvolvido para a Imersão Dev com Gemini da Alura, por uma product de
 e nunca tinha postado projetos no Github!
 Apesar de Acessibilidade ser um conceito amplo que abrange diversas necessidades, aqui fiz o recorte para pessoas com cadeira de rodas.
 
+
 **A idéia**
 
 
@@ -28,11 +29,13 @@ cadeira de rodas a identificar a situação de acessibilidade de cada restaurant
 quem sabe, evidenciar esses problemas para que autoridades, prefeitura, donos de restaurantes possam se sensibilizar e lutar conosco por um mundo sem barreiras!
 Para mim, ficou de tarefa começar alimentando o Maps com imagens dos banheiros, que não encontrei em nenhum dos restaurantes que eu trouxe como banco de dados.
 
+
 **Sugestão**
 
 
 Google Maps poderia ter uma sessão separada chamada "acessibilidade" para upload das fotos.
 Outra sugestão seria com IA identificar as imagens e taggear automaticamente cada upload dos usuários para facilitar as buscas no Google Maps.
+
 
 **Como funciona?**
 
