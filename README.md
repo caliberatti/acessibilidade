@@ -5,6 +5,8 @@ https://acessibilidade-phi.vercel.app/
 
 **Vote Aqui** :)
 
+https://discord.gg/UV8ujzHchj
+
 
 **Acessibilidade em Restaurantes - cidade de Santos**
 
