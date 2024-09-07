@@ -1,14 +1,20 @@
 ##Demo
+
+
 https://acessibilidade-phi.vercel.app/
 
 **Vote Aqui** :)
 
 **Acessibilidade em Restaurantes - cidade de Santos**
+
+
 Projeto desenvolvido para a Imersão Dev com Gemini da Alura, por uma product designer que conhece muito pouco de código ainda, que nunca tinha usado Javascript nem Vercel
 e nunca tinha postado projetos no Github!
 Apesar de Acessibilidade ser um conceito amplo que abrange diversas necessidades, aqui fiz o recorte para pessoas com cadeira de rodas.
 
 **A idéia**
+
+
 Tenho um filho que usa cadeira de rodas e frequentemente nos deparamos com questões de falta de acessibilidade na cidade que moramos - Santos, tais como:
 falta de guia rebaixada nas ruas, calçadas irregulares, estabelecimentos com mesas grudadas umas nas outras que dificultam nossa passagem,
 banheiros pequenos e sem trocador de fraldas, portas estreitas, estacionamento longe, poucas vagas destinadas a pessoas com cadeira de rodas, ...
@@ -23,10 +29,14 @@ quem sabe, evidenciar esses problemas para que autoridades, prefeitura, donos de
 Para mim, ficou de tarefa começar alimentando o Maps com imagens dos banheiros, que não encontrei em nenhum dos restaurantes que eu trouxe como banco de dados.
 
 **Sugestão**
+
+
 Google Maps poderia ter uma sessão separada chamada "acessibilidade" para upload das fotos.
 Outra sugestão seria com IA identificar as imagens e taggear automaticamente cada upload dos usuários para facilitar as buscas no Google Maps.
 
 **Como funciona?**
+
+
 Busque por nomes de restaurantes ou tipo de comida "japonesa" ou apenas dê scroll para acessar a lista completa.
 Cada item mostra o nome do restaurante, o tipo de comida, o endereço e tags clicáveis sobre acessibilidade que direcionam para fotos do Google Maps que os usuários postam.
 A base de dados ainda é pequena, mas pretendo dar continuidade ao projeto.
