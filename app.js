@@ -29,10 +29,10 @@ function pesquisar() {
                 <h5 class="endereco">${dado?.endereco}</h5>
                 <a href="${dado?.linkentradaacessivel}" target="_blank">entrada acessivel para cadeira de rodas</a> <br>
                 <a href="${dado?.linkespaco}" target="_blank">espaço entre as mesas</a> <br>
-                <a href="${dado?.estacionamento}" target="_blank">estacionamento</a> <br>
+                
                 <a href="${dado?.linkguia}" target="_blank">guia rebaixada</a> <br>
                 
-
+                ${dado.linkestacionamento ? `<a href="${dado.linkestacionamento}" target="_blank">estacionamento</a> <br>` : ''}
                 ${dado.linkbanheiro ? `<a href="${dado.linkbanheiro}" target="_blank">banheiro acessível</a> <br>` : ''}
                 ${dado.linkescada ? `<a href="${dado.linkescada}" target="_blank">acesso ao 2º andar apenas via escada</a> <br>` : ''}
     
