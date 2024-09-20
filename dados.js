@@ -56,6 +56,15 @@ let dados = [
         linkguia: "https://maps.app.goo.gl/TYRCFHvmneCL6Zkd8",
         linkescada: "https://maps.app.goo.gl/JoJ8acPNKatTuwtY7",
         tags: "crepe canal 7"
+    },
+    {
+        titulo:"Pipa Pizza e Pasta - Pizzaria",
+        endereco: "Rua Tolentino Filgueiras, 59 - Gonzaga, Santos.",
+        linkentradaacessivel: "https://www.google.com/maps/place/PIPA+-+Pizza+e+Pasta/@-23.9647308,-46.3303825,3a,75y,177.21h,90t/data=!3m7!1e1!3m5!1sXT2jcGrzZ_BwtnDeBAJpjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXT2jcGrzZ_BwtnDeBAJpjQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D177.20749%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m7!3m6!1s0x94ce03b536e20067:0x22648b154eddedc5!8m2!3d-23.9649304!4d-46.33037!10e5!16s%2Fg%2F11v4m4ysq1?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+        linkespaco: "https://www.google.com/maps/place/PIPA+-+Pizza+e+Pasta/@-23.964725,-46.3303429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNDhwTLKdDGNJFuUjx7Vuy2hNABDjfaMXB0xhSq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNDhwTLKdDGNJFuUjx7Vuy2hNABDjfaMXB0xhSq%3Dw203-h304-k-no!7i2000!8i3000!4m7!3m6!1s0x94ce03b536e20067:0x22648b154eddedc5!8m2!3d-23.9649304!4d-46.33037!10e5!16s%2Fg%2F11v4m4ysq1?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+        linkguia: "https://www.google.com/maps/place/PIPA+-+Pizza+e+Pasta/@-23.9649304,-46.33037,3a,75y,208.34h,68.39t/data=!3m8!1e1!3m6!1sAF1QipOl7o06NV35cWLheaSh-5HNkEm1n1QqJLIZIf_6!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOl7o06NV35cWLheaSh-5HNkEm1n1QqJLIZIf_6%3Dw203-h100-k-no-pi-0-ya200-ro0-fo100!7i5472!8i2736!4m9!3m8!1s0x94ce03b536e20067:0x22648b154eddedc5!8m2!3d-23.9649304!4d-46.33037!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11v4m4ysq1?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+        linkbanheiro: "https://www.google.com/maps/place/PIPA+-+Pizza+e+Pasta/@-23.9649304,-46.33037,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM-XnUj233tahA1Zd6AaHGRsWMm9BLQD8qhuqT6!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM-XnUj233tahA1Zd6AaHGRsWMm9BLQD8qhuqT6%3Dw203-h270-k-no!7i3024!8i4032!4m7!3m6!1s0x94ce03b536e20067:0x22648b154eddedc5!8m2!3d-23.9649304!4d-46.33037!10e5!16s%2Fg%2F11v4m4ysq1?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+        tags: "pizza pizzaria pipa"
     }
 ];
 
